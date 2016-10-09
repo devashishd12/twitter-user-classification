@@ -22,3 +22,4 @@ __Setting up__:
 - Download pre-trained stanford GloVe vectors from [here](http://nlp.stanford.edu/data/glove.twitter.27B.zip)
 - Download nltk data using
   `python -m nltk.downloader corpus`
+- Unzip `pycon_dict_pkl.zip` to extract `pycon_dict.pkl` which is our toy dataset.
