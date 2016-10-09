@@ -23,3 +23,4 @@ __Setting up__:
 - Download nltk data using
   `python -m nltk.downloader corpus`
 - Unzip `pycon_dict_pkl.zip` to extract `pycon_dict.pkl` which is our toy dataset.
+- Twitter app authentication is only needed for final function concerning real-time classification
