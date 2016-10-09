@@ -90,3 +90,6 @@ ENV/
 
 # Pickle files
 *.pkl
+
+# Don't need your credentials
+credentials.py
