@@ -6,3 +6,4 @@ python-twitter==3.1
 scikit-learn==0.18
 nltk==3.2.1
 gensim==0.13.1
+pattern
